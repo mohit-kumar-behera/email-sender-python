@@ -1,0 +1,6 @@
+Hello {receiver_name}
+
+
+How are you doing today ?
+
+If you received this mail then please contact {user_name}
